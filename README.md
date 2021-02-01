@@ -1,6 +1,6 @@
-# Ransomware en Python
+# Rans en Python
 
-_Ransomware muy sencillo programado en Python, haciendo uso del método Fernet de la librería Cryptography._
+_Rans muy sencillo programado en Python, haciendo uso del método Fernet de la librería Cryptography._
 
 
 ### Pre-requisitos 📋
